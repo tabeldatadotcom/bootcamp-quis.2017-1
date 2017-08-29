@@ -1,10 +1,10 @@
 # Quis 2017-1
 
-Soal Quis Bootcamp
+## Soal Quis Bootcamp tentang hibernate
 
 Buatlah program sederhana dengan kasus seperti berikut:
 
-Studi Kasus:
+### Studi Kasus:
 
 Terdapat seorang nasabah datang ke customer service, lalu customer service tersebut menanyakan 'ada yang bisa saya bantu?' 
 nasabah tersebut menjawab 'saya ingin membuat tabungan di sini, ada produk tabungan apa saya?', customer menjawab
@@ -44,7 +44,7 @@ karena terjadi transaksi yang dilakukan oleh nasabah tersebut maka buku tabungan
 | 001            | 2017-08-21 | 50.000          | 0             | 550.000     |
 | 002            | 2017-08-22 | 0               | 250.000       | 250.000     | 
 
-Pertanyaannya:
+### Pertanyaannya:
 
 1. Tentukan inputan apa saja dari studi kasus tersebut?
 2. Buat Program menggunakan hibernate berdasarkan kasus tersebut dan inputannya sesuai dengan soal no 1?
