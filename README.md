@@ -2,7 +2,7 @@
 
 Soal Quis Bootcamp
 
-Buat lah program sederhana dengan kasus seperti berikut:
+Buatlah program sederhana dengan kasus seperti berikut:
 
 Studi Kasus:
 
@@ -30,12 +30,9 @@ Rp.250,000,- ok pak. boleh ke kasir untuk melakukan setoran awal. setelah itu tr
 
 Setelah itu terdapat transaksi setoran dan penarikan seperti berikut:
 
-
-| kode           | Tanggal    | Debet           |  Kredit       | Saldo       |
-| :------------- |:--------   | :-------------  | :-----------  | :---------- |
-| 001            | 2017-08-20 | 250.000         | 0             | 500.000     |
-| 001            | 2017-08-21 | 50.000          | 0             | 550.000     |
-| 002            | 2017-08-22 | 0               | 250.000       | 250.000     | 
+* pada tanggal `2017-08-20` nasabah tersebut melakukan setoran tanbungan sebesar `Rp.250.000`
+* pada tanggal `2017-08-21` nasabah tersebut kemabali melakukan setoran tabungan sebesar `Rp.50.000`
+* pada tanggal `2017-08-22` nasabah tersebut melakukan penarikan tabungan sebesar `Rp.250.000`
 
 karena terjadi transaksi yang dilakukan oleh nasabah tersebut maka buku tabungan nasabah tersebut menajdi seperti berkut:
 
@@ -50,6 +47,6 @@ karena terjadi transaksi yang dilakukan oleh nasabah tersebut maka buku tabungan
 Pertanyaannya:
 
 1. Tentukan inputan apa saja dari studi kasus tersebut?
-2. Buat Program menggunakan database berdasarkan kasus tersebut dan inputannya sesuai dengan soal no 1?
+2. Buat Program menggunakan hibernate berdasarkan kasus tersebut dan inputannya sesuai dengan soal no 1?
 3. Buat inputan transaksi berdasarkan buku tabungan nasabah tersebut dan tampilkan outputnya seperti buku tabungan tersebut?
 
